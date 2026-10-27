@@ -1,0 +1,2 @@
+Hello worldcd "c:\Users\amrit\OneDrive\Desktop\100_Days_C__Program\" ; if ($?) { gcc New_Line.c -o New_Line } ; if ($?) { .\New_Line }
+This is appended text.
